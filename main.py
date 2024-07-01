@@ -11,9 +11,9 @@ MY_LONG = 61.3399
 TOLERANCE = 5
 
 # Email details
-EMAIL = "miraj.mv88@gmail.com"
-PASSWORD = "qtpzsxyusdtkgoim"
-RECIPIENT_EMAIL = "testitot@yahoo.com"
+EMAIL = ""
+PASSWORD = ""
+RECIPIENT_EMAIL = ""
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 TIMEOUT = 10  # Timeout for API requests in seconds
